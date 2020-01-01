@@ -9,6 +9,6 @@ i += 1
   arr
 end 
 
-def reduce(array, starting_value)
+def reduce(array, starting_value=nil)
   
 end
