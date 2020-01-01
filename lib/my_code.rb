@@ -8,3 +8,7 @@ i += 1
   end 
   arr
 end 
+
+def reduce(array, )
+  
+end
